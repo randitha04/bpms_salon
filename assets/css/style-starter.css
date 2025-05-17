@@ -3183,7 +3183,7 @@
 
 .w3l-header-4 .navbar .navbar-brand {
   font-size: 40px;
-  color: #fff !important;
+  color: #dbd3d3 !important;
   text-transform: capitalize;
   font-weight: 700;
   margin-right: 0px;
@@ -3202,7 +3202,7 @@
 
 .w3l-header-4 .navbar-expand-lg .navbar-nav .nav-link {
   padding: 6px 12px;
-  color: #eee;
+  color: #f1e5e5;
   background: transparent;
   font-size: 16px;
   line-height: 25px;
@@ -3210,7 +3210,7 @@
 }
 
 .w3l-header-4 .navbar-expand-lg .navbar-nav .nav-link:hover {
-  color: #fff;
+  color: #1c0987;
 }
 
 .w3l-header-4 .navbar-light .navbar-nav .show > .nav-link {
@@ -10383,6 +10383,7 @@ input[type="button"].btn-block {
 .navbar-toggler:hover,
 .navbar-toggler:focus {
   text-decoration: none;
+  color: #721c24;
 }
 
 .navbar-toggler-icon {
